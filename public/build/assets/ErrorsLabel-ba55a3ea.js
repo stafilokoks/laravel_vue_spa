@@ -1,0 +1,1 @@
+import{o as r,c as t,k as o,F as c,f as n,d as l,t as i}from"./app-457d9ccf.js";const p={name:"ErrorsLabel",props:["errors"],setup(e){return(m,u)=>typeof e.errors=="object"?(r(!0),t(c,{key:0},o(e.errors,(s,a)=>(r(),t("ul",{class:"list-disc text-red-400",key:a},[l("li",null,i(s[0]),1)]))),128)):n("",!0)}};export{p as _};

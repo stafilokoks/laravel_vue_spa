@@ -1,0 +1,50 @@
+{
+  "_ErrorsLabel-ba55a3ea.js": {
+    "file": "assets/ErrorsLabel-ba55a3ea.js",
+    "imports": [
+      "resources/js/app.js"
+    ]
+  },
+  "resources/css/app.css": {
+    "file": "assets/app-4ed993c7.js",
+    "isEntry": true,
+    "src": "resources/css/app.css"
+  },
+  "resources/js/app.js": {
+    "dynamicImports": [
+      "resources/js/vue/pages/Login.vue",
+      "resources/js/vue/pages/Register.vue",
+      "resources/js/vue/pages/Index.vue"
+    ],
+    "file": "assets/app-457d9ccf.js",
+    "isEntry": true,
+    "src": "resources/js/app.js"
+  },
+  "resources/js/vue/pages/Index.vue": {
+    "file": "assets/Index-b97dd038.js",
+    "imports": [
+      "resources/js/app.js",
+      "_ErrorsLabel-ba55a3ea.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/vue/pages/Index.vue"
+  },
+  "resources/js/vue/pages/Login.vue": {
+    "file": "assets/Login-0c12a9ac.js",
+    "imports": [
+      "resources/js/app.js",
+      "_ErrorsLabel-ba55a3ea.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/vue/pages/Login.vue"
+  },
+  "resources/js/vue/pages/Register.vue": {
+    "file": "assets/Register-83a5bd37.js",
+    "imports": [
+      "resources/js/app.js",
+      "_ErrorsLabel-ba55a3ea.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/vue/pages/Register.vue"
+  }
+}
